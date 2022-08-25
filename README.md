@@ -8,7 +8,7 @@
 
 ## How To Use
 ```
-$ git clone https://github.com/sonalmaniya/insta-reels.git
+$ git clone https://github.com/AngelDev727/video-autoplay.git
 
 $ cd insta-reels
 
